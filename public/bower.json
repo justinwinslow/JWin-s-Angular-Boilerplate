@@ -1,0 +1,11 @@
+{
+  "name": "JWin-s-Angular-Boilerplate",
+  "description": "Simple Boilerplate for Angular Apps",
+  "version": "0.1.0",
+  "dependencies": {
+    "jquery": "latest",
+    "angular": "latest",
+    "angular-route": "latest",
+    "normalize-css": "latest"
+  }
+}
